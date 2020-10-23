@@ -1,0 +1,13 @@
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\bin\Debug\netcoreapp3.1\Merkkijonolaskin.exe
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\bin\Debug\netcoreapp3.1\Merkkijonolaskin.deps.json
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\bin\Debug\netcoreapp3.1\Merkkijonolaskin.runtimeconfig.json
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\bin\Debug\netcoreapp3.1\Merkkijonolaskin.runtimeconfig.dev.json
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\bin\Debug\netcoreapp3.1\Merkkijonolaskin.dll
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\bin\Debug\netcoreapp3.1\Merkkijonolaskin.pdb
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.csprojAssemblyReference.cache
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.AssemblyInfoInputs.cache
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.AssemblyInfo.cs
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.csproj.CoreCompileInputs.cache
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.dll
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.pdb
+C:\Users\tatuv\source\repos\Merkkijonolaskin\Merkkijonolaskin\obj\Debug\netcoreapp3.1\Merkkijonolaskin.genruntimeconfig.cache
